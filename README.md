@@ -101,11 +101,11 @@ Figma에는 run마다 `run-<id>` 페이지가 하나씩 생겨요. 각 에이전
 
 ## 지금까지 만든 화면
 
-| 화면 · 상태 | run | Figma 프레임 |
-|---|---|---|
-| 수행 · 진행 중 | `20260929-2335` | [7:3](https://www.figma.com/design/CysZpBsN8Lu6pdTEQ1UfZc?node-id=7-3) |
-| 수행 · 시작 전 | `20260930-0026` | [18:3](https://www.figma.com/design/CysZpBsN8Lu6pdTEQ1UfZc?node-id=18-3) |
-| 수행 · 촬영 | `20260930-0027` | [18:11](https://www.figma.com/design/CysZpBsN8Lu6pdTEQ1UfZc?node-id=18-11) |
-| 수행 · 완료 | `20260930-0028` | [20:3](https://www.figma.com/design/CysZpBsN8Lu6pdTEQ1UfZc?node-id=20-3) |
+| 화면 · 상태 | run |
+|---|---|
+| 수행 · 진행 중 | `20260929-2335` |
+| 수행 · 시작 전 | `20260930-0026` |
+| 수행 · 촬영 | `20260930-0027` |
+| 수행 · 완료 | `20260930-0028` |
 
 네 run 모두 G5 위반 0건이고 승인이 기록돼 있어요.
