@@ -1,0 +1,7 @@
+{
+  "name": "tofocus-harness-scripts",
+  "private": true,
+  "type": "module",
+  "scripts": { "test": "node test.mjs" },
+  "dependencies": { "js-yaml": "^4.1.0" }
+}

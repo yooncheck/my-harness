@@ -1,0 +1,22 @@
+# Dependencies (reinstall with: cd harness/scripts && npm install)
+node_modules/
+
+# Run outputs: Figma evidence, approvals, gate results, guard log, Figma file key (runs/config.json)
+runs/
+
+# Local-only switches and personal settings
+.claude/maintenance
+.claude/settings.local.json
+
+# Secrets, should any ever be added
+.env
+.env.*
+*.pem
+*.key
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+.idea/
